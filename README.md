@@ -56,7 +56,7 @@ Here
 Waldo X Bot replies with:
 ```txt
 Waldo is found at normalized X coordinate .9 and normalized Y coordinate .2
-[IMAGE_OF_WALDO_FROM_USER_IMAGE]
+[IMAGE_SECTION_OF_WALDO_FROM_USER_IMAGE]
 ``` 
 ### Tickets
 - Create the aforementioned app
